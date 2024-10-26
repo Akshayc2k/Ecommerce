@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+
+
+// Define basic styles and color palette
+$background-color: #4e4f9c;
+$circle-bg: #f7e4a3;
+$text-color: white;
+$font-family: 'Arial', sans-serif;
+
+// General Reset
+
+
+// * {
+//     margin: 0;
+//     padding: 0;
+//     box-sizing: border-box;
+//   }
+  
+  body {
+    font-family: Arial, sans-serif;
+    
+  }

@@ -1,0 +1,72 @@
+
+.banner {
+    background-image: url('https://www.shutterstock.com/image-photo/healthy-food-background-photography-different-260nw-1696846630.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    text-align: center;
+    color: #95a03b;
+  
+    .banner-content {
+      h1 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+      }
+  
+      button {
+        padding: 10px 20px;
+        background-color: transparent;
+        border: 2px solid #95a03b;
+        color: #95a03b;
+        cursor: pointer;
+        font-weight: bold;
+  
+        &:hover {
+          background-color: #95a03b;
+          color: white;
+        }
+      }
+    }
+
+
+    
+
+   
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    text-align: center;
+    background-color: #F5F4B3;
+  }
+  
+  .feature-item {
+    width: 20%;
+  }
+  
+  .feature-item img {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 10px;
+  }
+  
+  .feature-item h3 {
+    margin: 10px 0;
+    color: #4caf50;
+    font-weight: bold;
+  }
+  
+  .feature-item:nth-child(2) h3 {
+    color: #ffa726;
+  }
+  
+  .feature-item:nth-child(4) h3 {
+    color: #ffa726;
+  }
+  
+  .feature-item p {
+    margin: 0;
+    color: #616161;
+  }

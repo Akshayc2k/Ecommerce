@@ -1,0 +1,52 @@
+{
+
+    "categories":[
+        {
+            "id": 1,
+            "name": "Homemade Food Products",
+            "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2020/10/PK/RI/AH/105462405/homemade-food.jpeg"
+          },
+          {
+            "id": 2,
+            "name": "Sewing Cloths are Available",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIilkh0qtli64ZnhLJsiVXjJUEwmKi0q9wBg&s"
+          },
+          {
+            "id": 3,
+            "name": "Home Decors Products Available",
+            "imageUrl": "https://zoozle.in/_next/image?url=https%3A%2F%2Fcdn.zoozle.in%2Fv3%2Fecom%2Fproduct%2Fvariant%2FE61C8F8EBCA542649415F4CA489E23FD.webp&w=1080&q=75"
+          },
+          {
+            "id": 4,
+            "name": "Festival Cloths are Available on Rent",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbo3aJPGjc_W3UoGB1Bw-uALh00XOjKiTdpA&s"
+          }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Handmade Printed Flowerpots",
+        "price": 200,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTS_5iK-8p6RtiPDCY_PT6IyIcovURTQn2R9GGB9zd-i4OgYogdFOMouLaIziRniyW5WWGOkO9k0swUvcUikskujAeyoVy6_W9puqWgAU8&usqp=CAE"
+      },
+      {
+        "id": 2,
+        "name": "Plane Salted Fasting Potato Chips",
+        "price": 60,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0LhkLKPmcLLd_grDDEu2ptj3oivMWJnduS_60dkuiI4VinnWHFODIqeVBp9_DlvSjBCq00dEbhndne3Xtgmm1oTSNImmRp1DnreONdiUWFxeq4E7gtJL2&usqp=CAE"
+      },
+      {
+        "id": 3,
+        "name": "Handloom Saree",
+        "price": 499,
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRXrJkpyllFHn00r0oY4P5LFcs7LV44fRyxZj6RjSxgB_BBIfwKWsn2SV7Jz8DdPQcmqNBUGV0sgZYYvJGAfivYlSGC4tOSBMluXhcupFo&usqp=CAE"
+      },
+      {
+        "id": 4,
+        "name": "Pink Flower Jewellery",
+        "price": 500,
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzlLVztEmgQveiVkP-UBjsFaQqpNNpzWRilRt66ezlvp4AU8W2vkiFdce-sx7GQD6I5Uvo8sdxqS1J_RrQWTwrKFWW0xk8eXal7WJh9TEtcx4XD4BnXQiY-A&usqp=CAE"
+      }
+    ]
+  }
+  
